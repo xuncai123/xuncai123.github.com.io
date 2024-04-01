@@ -1,0 +1,1109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<title>AniGood家用别墅移动星空房案例</title>
+<meta name="keywords" content="AniGood,星空房,泡泡屋,透明星空房">
+<meta name="description" content="AniGood移动星空房主体框架采用高强度铝型材，大大提高了星空房的安全防护性能，增加用户在户外使用的安全性，AniGood拥有强大的产品研发能力，可以提供一体化的星空房方案，满足多元化的用户应用场景需求">
+
+
+
+<!-- 百度统计  
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?f35be7f1913c89dd1e2682e83e4e4178";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+<!-- 爱番番 
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?f35be7f1913c89dd1e2682e83e4e4178";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+-->
+
+
+<script>(function() {var _53code = document.createElement("script");_53code.src = "https://tb.53kf.com/code/code/10194064/3";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(_53code, s);})();</script>
+
+
+
+
+<link rel="stylesheet" href="/style/css/nav.css">
+<link rel="stylesheet" href="/style/font-awesome-4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/style/css/aos.css" />
+<link rel="stylesheet" href="/style/css/star.css">
+<link rel="stylesheet" href="/style/css/star-h5.css">
+<link rel="stylesheet" href="/style/css/swiper.min.css">
+<link rel="stylesheet" href="/style/video/video.css">	
+
+
+
+<script type="text/javascript" src="/style/js/jquery-2.1.0.js"></script>
+<script type="text/javascript" src="/style/js/aos.js"></script>
+<script type="text/javascript" src="/style/js/nav.js"></script>
+<script type="text/javascript" src="/style/js/swiper.min.js"></script>
+<script type="text/javascript" src="/style/js/xkf.js"></script>
+<script type="text/javascript" src="/style/video/pingzi_video.js"></script>
+
+</head>
+<body  class="drawer drawer--right">	
+
+
+<div class="pc-1200px"><p><strong>2020 官网升级中！</strong><span>现在您访问官网的浏览器设备分辨率宽度低于1280px</br>请使用高分辨率宽度访问。</span></p></div>
+
+
+
+
+   
+    <header>
+    
+     
+        <!-- 手机导航 -->
+        <button type="button" class="drawer-toggle drawer-hamburger"> <span class="drawer-hamburger-icon"></span></button>                      
+        <nav class="drawer-nav" role="navigation">
+            <ul class="drawer-menu">
+                <ul class="drawer-menu">
+                   
+                  <a href="/" class="logo" aos="fade-right" aos-delay="400" aos-offset="0"> <img src="/style/img/color.svg" alt=""><span>21年全品类星空房直供厂家</span></a>
+
+				  <dl>
+					<dd>
+					      <h3><a href="javascript:void(0):">爆款星空房</a>
+						  <div class="huo">
+							  <img src="/style/img/huo.png" alt="">
+						  </div>
+						</h3>
+					      <h4>
+					        <a href="/full/index.html">全景星空房</a>		
+					    	<a href="/mobile/index.html">移动星空房</a>
+					      </h4>
+					</dd>
+					 
+					<dd>
+					    <h3><a href="javascript:void(0):">产品中心</a></h3>
+					    <h4>
+					      					    					    <a href="/category/p1/index.html" class=" ">全景星空房</a>
+					    					    <a href="/category/p3/index.html" class=" ">移动星空房</a>
+					    					    </h4>
+					</dd>
+				    <dd>
+					  <h3><a href="javascript:void(0):">解决方案</a></h3>
+					  <h4>
+					    <a href="/plan/index.html">家用领域</a>
+						<a href="/plan02/index.html">民宿领域</a>
+						<a href="/plan03/index.html">餐饮领域</a>
+					  </h4>
+					</dd>
+					
+					<dd>
+					  <h3><a href="javascript:void(0):">精品案例</a></h3>
+					  <h4>
+					    <a href="/casecat/jy/index.html">家用场景</a>
+						<a href="/casecat/sy/index.html">商用场景</a>
+					  </h4>
+					</dd>
+					<dd>
+					  <h3><a href="javascript:void(0):">新闻动态</a></h3>
+					  <h4>
+					    					    					    <a href="/newscat/news-headlines/index.html" class=" ">新闻头条</a>
+					    					    <a href="/newscat/news-headlines2/index.html" class=" ">行业动态</a>
+					    					    <a class="drawer-dropdown-menu-item" href="/about/index.html" title="3">品牌介绍</a>
+<a href="http://www.iis7.com" style="display:inline-block;background-color:;color:#fff;padding:2px 5px;font-family:arial;font-size:12px;font-weight:bold;" class="530944b74515470692cc6db00426cc69" target="_blank">iis7站长之家</a>
+					    					  </h4>
+					</dd>
+					<dd>
+					  <h3><a href="javascript:void(0):">关于我们</a></h3>
+					  <h4>
+					    <a href="/contact/index.html">联系方式</a>
+						<a href="/honor/index.html">荣誉资质</a>
+						<a href="/about/index.html">品牌介绍</a>
+						<a href="/history/index.html">发展历程</a>
+						<a href="/service/index.html">服务中心</a>
+					  </h4>
+					</dd>
+
+					<dd>
+					  <h3><a href="javascript:void(0):">联系</a></h3>
+					  <div class="txt">
+					    <div class="left">
+					    <strong><img src="/style/img/weixin.jpg"><span>微信公众号</span></strong>
+					    <strong><img src="/style/img/douyin.jpg"><span>官方抖音号</span></strong>
+					    </div>
+						<p>
+						 浙江省杭州市余杭区仁和街道运溪路18号1035室</br></br>
+						 13372410007</br></br>
+						 11384736@qq.com
+						</p>
+					  </div>
+					</dd>
+
+				  </dl>
+
+
+				  <li><a class="drawer-menu-item" href="/">首页</a></li>
+			 <li class="drawer-dropdown"><a class="drawer-menu-item" href="javascript:;" data-toggle="dropdown" role="button" aria-expanded="false">爆款产品<span class="drawer-caret"></span></a>
+				 <ul class="drawer-dropdown-menu">
+					 <li><a  class="drawer-dropdown-menu-item" href="/full/index.html" title="1">全景星空房</a></li>
+					 <li><a  class="drawer-dropdown-menu-item" href="/mobile/index.html" title="2">移动星空房</a></li>
+				 </ul>
+			 </li>
+			 <li class="drawer-dropdown"><a class="drawer-menu-item" href="javascript:;" data-toggle="dropdown" role="button" aria-expanded="false">产品中心<span class="drawer-caret"></span></a>
+				 <ul class="drawer-dropdown-menu">
+				 <li><a class="drawer-dropdown-menu-item"  href="/category/p1/index.html" title="1">全景星空房</a></li>
+				 <li><a class="drawer-dropdown-menu-item"  href="/category/p3/index.html" title="2">移动星空房</a></li>						
+				 </ul>
+			 </li>
+			 <li class="drawer-dropdown"><a class="drawer-menu-item" href="javascript:;" data-toggle="dropdown" role="button" aria-expanded="false">应用方案<span class="drawer-caret"></span></a>
+				 <ul class="drawer-dropdown-menu">
+				 <li><a  class="drawer-dropdown-menu-item"  href="/plan03/index.html" title="1">餐饮领域</a></li>
+				 <li><a  class="drawer-dropdown-menu-item"  href="/plan02/index.html" title="2">民宿领域</a></li>
+				 <li><a  class="drawer-dropdown-menu-item"  href="/plan/index.html" title="3">家用领域</a></li>
+				 </ul>
+			 </li>
+			 <li class="drawer-dropdown"><a class="drawer-menu-item" href="javascript:;" data-toggle="dropdown" role="button" aria-expanded="false">精品案例<span class="drawer-caret"></span></a>
+				 <ul class="drawer-dropdown-menu">
+				 <li><a class="drawer-dropdown-menu-item" href="/casecat/jy/index.html" title="1">家用场景</a></li>
+				 <li><a class="drawer-dropdown-menu-item" href="/casecat/sy/index.html" title="2">商用场景</a></li>
+				 
+				 </ul>
+			 </li>
+			 <li class="drawer-dropdown"><a class="drawer-menu-item" href="javascript:;" data-toggle="dropdown" role="button" aria-expanded="false">新闻动态<span class="drawer-caret"></span></a>
+				 <ul class="drawer-dropdown-menu">
+				 <li><a class="drawer-dropdown-menu-item" href="/newscat/news-headlines/index.html" title="1">新闻头条</a></li>
+				 <li><a class="drawer-dropdown-menu-item" href="/newscat/news-headlines2/index.html" title="1">行业动态</a></li>
+				 <li><a class="drawer-dropdown-menu-item" href="/newscat/news-headlines3/index.html" title="1">常见问题</a></li>
+				 </ul>
+			 </li>
+			 <li class="drawer-dropdown"><a class="drawer-menu-item" href="javascript:;" data-toggle="dropdown" role="button" aria-expanded="false">关于我们<span class="drawer-caret"></span></a>
+				 <ul class="drawer-dropdown-menu">
+				 <li><a class="drawer-dropdown-menu-item" href="/contact/index.html" title="1">联系方式</a></li>
+				 <li><a class="drawer-dropdown-menu-item" href="/honor/index.html" title="2">荣誉资质</a></li>
+				 <li><a class="drawer-dropdown-menu-item" href="/about/index.html" title="3">品牌介绍</a></li>
+				 <li><a class="drawer-dropdown-menu-item" href="/history/index.html" title="4">发展历程</a></li>
+				 <li><a class="drawer-dropdown-menu-item" href="/service/index.html" title="5">服务中心</a></li>
+				 </ul>
+			 </li>
+
+
+
+                </ul>
+            </ul>
+
+        </nav>
+    </header>
+ 
+
+<div class="div1"><div id="div2" class="div2">
+<a href="/" class="logo" aos="fade-right" aos-delay="400" aos-offset="0"> 
+  <img src="/style/img/logo_white.svg" alt="" class="img_1">
+  <img src="/style/img/color.svg" alt="" class="img_2" >
+  <span>21年全品类星空房直供厂家</span>
+</a>
+<div class="phonenum">
+	<i class="fa fa-phone"></i><span>13372410007</span>
+</div>
+</div></div>
+
+
+
+<div class="star-fr" >
+            <div class="mid">
+                <a href="javascript:;" class="search"><i class="fa fa-search"></i></a>
+				<a href="https://bafa.taobao.com/" target="_blank" class="search"><i class="iconfont">&#xe8e0;</i></a>  
+                <a href="https://v.douyin.com/Le3TGum/" target="_blank" class="search"><i class="iconfont">&#xe8db;</i></a>  
+				<a href="/casecat/jy/index.html" class="search"><i class="fa fa-futbol-o"></i></a>  
+                
+            </div>
+            <div class="bot">
+                <div class="h">
+                    <h5><a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备2023002530号-1</a> </h5>
+                    <h5>阿尼(浙江)科技有限公司  所有版权 </h5>
+                </div>
+                
+            </div>
+</div>
+
+
+<script>
+window.onscroll = function() {
+	var t = document.documentElement.scrollTop || document.body.scrollTop;
+	var div2 = document.getElementById("div2");
+	if (t >= 100) {
+		// div2.className = "div2_1";
+		$(".div2").addClass("div2_1")
+		$(".img_1").css("display","none")
+		$(".img_2").css("display","block")
+		$(".logo span ").css("color","rgb(23 124 111)")
+	} else {
+		// div2.className = "div2";
+		$(".div2").removeClass("div2_1")
+		$(".img_2").css("display","none")
+		$(".img_1").css("display","block")
+		$(".logo span ").css("color","#fff")
+	};
+	
+	// totop
+	if(t > 500){
+		$("#totop").addClass("now");
+	}else{
+		$("#totop").removeClass("now");
+	}
+	
+}
+</script>
+
+
+<div class="contactF">
+
+<div class="casebanner">
+	<img src="/style/img/casebanner.jpg" alt="">
+	<div class="text">
+		<h3 aos="fade-up"> 1000+ </h3>
+		<h4 aos="fade-up">见证AniGood精品品质</h4>
+	</div>
+</div>
+
+
+<script>
+    $(function(){
+        $(".case01 .top ul li:nth-of-type(1) .min a ").click(function(){
+            $(this).addClass("active");
+            $(this).siblings().removeClass("active");
+        })
+        $(".case01 .top ul li:nth-of-type(2) .min a ").click(function(){
+            $(this).addClass("active");
+            $(this).siblings().removeClass("active");
+        })
+        $(".case01 .top ul li:nth-of-type(3) .min a ").click(function(){
+            $(this).addClass("active");
+            $(this).siblings().removeClass("active");
+        })
+    })
+</script>
+
+<!-- case01-->
+<div class="case01">
+    <div class="content">
+        <div class="top" >
+            <div class="t" >
+                <h3 aos="fade-up">
+                  <span>众多客户选择了我们</span><br>总有一款客户案例也适合您
+                </h3>
+                <a href="https://p.qiao.baidu.com/cps3/chatIndex?siteToken=f35be7f1913c89dd1e2682e83e4e4178&speedLogId=165268830233948d1_1652688302339_89829&bid=165268152321086802&eid=39448235&reqParam=%7B%22from%22%3A0,%22sid%22%3A%22-100%22,%22tid%22%3A%22-1%22,%22ttype%22%3A1,%22siteId%22%3A%2217972685%22,%22userId%22%3A%2239448235%22,%22pageId%22%3A0%7D" target="_blank"  aos="fade-up"> <span>即刻咨询</span></a>
+            </div>
+           <ul>
+
+                                  	                        							    
+               <li aos="fade-up" class="">
+                   <h3 class=" ">家用场景</h3>
+                   <div class="min">
+                                                                                            					   <a href="/casecat/jy/t-1/index.html" class="">庭院</a>
+                                                                     					   <a href="/casecat/jy/t-2/index.html" class="">楼顶</a>
+                                                                     					   <a href="/casecat/jy/t-3/index.html" class="">阳台</a>
+                                                                     					   <a href="/casecat/jy/t-4/index.html" class="">花园</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </div>
+               </li>
+			   			                           			                           			                           			                           			                           							    
+               <li aos="fade-up" class="active1">
+                   <h3 class=" active2">商用场景</h3>
+                   <div class="min">
+                                                                                                                                                                                                                                                                                                                                  					   <a href="/casecat/sy/m-1/index.html" class="">民宿</a>
+                                                                     					   <a href="/casecat/sy/m-2/index.html" class="">餐饮</a>
+                                                                     					   <a href="/casecat/sy/m-3/index.html" class="">景区</a>
+                                                                     					   <a href="/casecat/sy/m-5/index.html" class="">商场</a>
+                                                                     					   <a href="/casecat/sy/m-4/index.html" class="active">酒店</a>
+                                                                     					   <a href="/casecat/sy/教育机构/index.html" class="">教育机构</a>
+                                                                     					   <a href="/casecat/sy/生态园/index.html" class="">生态园</a>
+                                                                     					   <a href="/casecat/sy/其它/index.html" class="">其它</a>
+                                                                 </div>
+               </li>
+			   			                           			                           			                           			                           			                           			                           			                           			                           			   
+           </ul>
+        </div>
+        <div class="mid" aos="fade-up">
+        <div class="swiper case01Swiper">
+    <div class="swiper-wrapper">
+ 
+
+
+        <div class="swiper-slide">
+            <div class="box">  <div class="bao"><img src="/wp-content/uploads/2022/04/1600-1.jpg" alt=""></div>           
+            <div class="text">
+            <a href="/hotcase/别墅移动星空房/index.html">
+                <h3>别墅移动星空房</h3>
+                <h4><span>福建泉州</span>别墅庭院</h4>
+                <p>AniGood移动星空房拥有独特的360°观景体验、融入自然山水，24小时生态快建，无需审批，即建即用，安全稳固坚不可摧；产品拥有多种组合方式，灵活打造居住空间。</p>
+                <div class="bot">
+                    <div class="le"><div class="bao"> <img src="/style/img/renwu.png" alt=""></div><span>去咨询</span></div>
+                    <div class="a">MORE<span>></span></div>
+                  
+                </div>
+            </a>
+            </div></div>
+        </div>
+        <div class="swiper-slide">
+            <div class="box">  <div class="bao"><img src="/wp-content/uploads/2022/04/1600.jpg" alt=""></div>           
+            <div class="text">
+            <a href="/hotcase/双廊岛民宿/index.html">
+                <h3>双廊岛民宿</h3>
+                <h4><span>上海宝山</span>网红餐厅</h4>
+                <p>在房间里看海看夕阳还能和海鸥亲密互动，大理双廊古镇内的这家海景半岛民宿简直就是民宿天花板呐！还有超一线的海景，在房间私享一片海域也太爽了吧！</p>
+                <div class="bot">
+                    <div class="le"><div class="bao"> <img src="/style/img/renwu.png" alt=""></div><span>去咨询</span></div>
+                    <div class="a">MORE<span>></span></div>
+                  
+                </div>
+            </a>
+            </div></div>
+        </div>
+        <div class="swiper-slide">
+            <div class="box">  <div class="bao"><img src="/wp-content/uploads/2022/04/1642158085_%E5%89%AF%E6%9C%AC.jpg" alt=""></div>           
+            <div class="text">
+            <a href="/hotcase/别墅花园阳光房/index.html">
+                <h3>别墅花园阳光房</h3>
+                <h4><span>美国</span>别墅家用</h4>
+                <p>AniGood移动星空房拥有独特的360°观景体验、融入自然山水，24小时生态快建，无需审批，即建即用，安全稳固坚不可摧；产品拥有多种组合方式，灵活打造居住空间。</p>
+                <div class="bot">
+                    <div class="le"><div class="bao"> <img src="/style/img/renwu.png" alt=""></div><span>去咨询</span></div>
+                    <div class="a">MORE<span>></span></div>
+                  
+                </div>
+            </a>
+            </div></div>
+        </div>
+        <div class="swiper-slide">
+            <div class="box">  <div class="bao"><img src="/wp-content/uploads/2022/04/16421579601_%E5%89%AF%E6%9C%AC.jpg" alt=""></div>           
+            <div class="text">
+            <a href="/hotcase/美国别墅庭院/index.html">
+                <h3>别墅庭院星空房</h3>
+                <h4><span>美国</span>别墅家用</h4>
+                <p>AniGood移动星空房拥有独特的360°观景体验、融入自然山水，24小时生态快建，无需审批，即建即用，安全稳固坚不可摧；产品拥有多种组合方式，灵活打造居住空间。</p>
+                <div class="bot">
+                    <div class="le"><div class="bao"> <img src="/style/img/renwu.png" alt=""></div><span>去咨询</span></div>
+                    <div class="a">MORE<span>></span></div>
+                  
+                </div>
+            </a>
+            </div></div>
+        </div>
+        <div class="swiper-slide">
+            <div class="box">  <div class="bao"><img src="/wp-content/uploads/2022/04/1600-1-1.jpg" alt=""></div>           
+            <div class="text">
+            <a href="/hotcase/游艇餐厅星空房/index.html">
+                <h3>游艇餐厅星空房</h3>
+                <h4><span>浙江宁波</span>游艇餐厅</h4>
+                <p>AniGood移动星空房拥有独特的360°观景体验、融入自然山水，24小时生态快建，无需审批，即建即用，安全稳固坚不可摧；产品拥有多种组合方式，灵活打造居住空间。</p>
+                <div class="bot">
+                    <div class="le"><div class="bao"> <img src="/style/img/renwu.png" alt=""></div><span>去咨询</span></div>
+                    <div class="a">MORE<span>></span></div>
+                  
+                </div>
+            </a>
+            </div></div>
+        </div>
+        <div class="swiper-slide">
+            <div class="box">  <div class="bao"><img src="/wp-content/uploads/2022/04/1-11.jpg" alt=""></div>           
+            <div class="text">
+            <a href="/hotcase/美国家用庭院/index.html">
+                <h3>别墅旋转星空房</h3>
+                <h4><span>美国</span>别墅家用</h4>
+                <p>AniGood移动星空房拥有独特的360°观景体验、融入自然山水，24小时生态快建，无需审批，即建即用，安全稳固坚不可摧；产品拥有多种组合方式，灵活打造居住空间。</p>
+                <div class="bot">
+                    <div class="le"><div class="bao"> <img src="/style/img/renwu.png" alt=""></div><span>去咨询</span></div>
+                    <div class="a">MORE<span>></span></div>
+                  
+                </div>
+            </a>
+            </div></div>
+        </div>
+
+
+
+        </div>
+    <!-- 如果需要分页器 -->
+    <div class="swiper-pagination case01Swiper-pagination"></div>
+
+</div>
+        </div>
+        <div class="bot">
+        <ul>
+		
+										<li aos="fade-up">
+                        <a href="/case/家用别墅星空房/index.html">
+                            <div class="bao"><img src="/wp-content/uploads/2022/04/493-1.jpg" alt="">   </div>
+						<div class="text">
+						<div class="mid">
+							<div class="le">
+								<h3>家用别墅星空房</h3>
+								<h4><span>酒店</span>3.5m星空房</h4>
+							</div>
+							<div class="ri"><img src="/style/img/plan08-3.jpg" alt=""><span>120个喜欢</span></div>
+						</div>
+						<div class="bottom">
+							<div class="le"><div class="bao"><img src="/style/img/renwu.png" alt=""></div>
+							<span>去咨询</span></div>
+                            <div class="a">MORE<span>></span></div>
+							
+						</div>
+						</div>
+                        </a>
+						
+					</li>
+										<li aos="fade-up">
+                        <a href="/case/家用庭院星空房/index.html">
+                            <div class="bao"><img src="/wp-content/uploads/2022/04/%E5%B0%81%E9%9D%A22-1.jpg" alt="">   </div>
+						<div class="text">
+						<div class="mid">
+							<div class="le">
+								<h3>家用庭院星空房</h3>
+								<h4><span>酒店</span>3.5m星空房</h4>
+							</div>
+							<div class="ri"><img src="/style/img/plan08-3.jpg" alt=""><span>120个喜欢</span></div>
+						</div>
+						<div class="bottom">
+							<div class="le"><div class="bao"><img src="/style/img/renwu.png" alt=""></div>
+							<span>去咨询</span></div>
+                            <div class="a">MORE<span>></span></div>
+							
+						</div>
+						</div>
+                        </a>
+						
+					</li>
+										<li aos="fade-up">
+                        <a href="/case/家用庭院星空房-2/index.html">
+                            <div class="bao"><img src="/wp-content/uploads/2022/04/493-1-1.jpg" alt="">   </div>
+						<div class="text">
+						<div class="mid">
+							<div class="le">
+								<h3>家用庭院星空房</h3>
+								<h4><span>酒店</span>3.5m星空房</h4>
+							</div>
+							<div class="ri"><img src="/style/img/plan08-3.jpg" alt=""><span>120个喜欢</span></div>
+						</div>
+						<div class="bottom">
+							<div class="le"><div class="bao"><img src="/style/img/renwu.png" alt=""></div>
+							<span>去咨询</span></div>
+                            <div class="a">MORE<span>></span></div>
+							
+						</div>
+						</div>
+                        </a>
+						
+					</li>
+										<li aos="fade-up">
+                        <a href="/case/游艇餐厅星空房/index.html">
+                            <div class="bao"><img src="/wp-content/uploads/2022/04/493-1-2.jpg" alt="">   </div>
+						<div class="text">
+						<div class="mid">
+							<div class="le">
+								<h3>游艇餐厅星空房</h3>
+								<h4><span>酒店</span>3.5m星空房</h4>
+							</div>
+							<div class="ri"><img src="/style/img/plan08-3.jpg" alt=""><span>120个喜欢</span></div>
+						</div>
+						<div class="bottom">
+							<div class="le"><div class="bao"><img src="/style/img/renwu.png" alt=""></div>
+							<span>去咨询</span></div>
+                            <div class="a">MORE<span>></span></div>
+							
+						</div>
+						</div>
+                        </a>
+						
+					</li>
+										<li aos="fade-up">
+                        <a href="/case/双廊岛民宿/index.html">
+                            <div class="bao"><img src="/wp-content/uploads/2022/04/493-2.jpg" alt="">   </div>
+						<div class="text">
+						<div class="mid">
+							<div class="le">
+								<h3>双廊岛民宿</h3>
+								<h4><span>酒店</span>3.5m星空房</h4>
+							</div>
+							<div class="ri"><img src="/style/img/plan08-3.jpg" alt=""><span>120个喜欢</span></div>
+						</div>
+						<div class="bottom">
+							<div class="le"><div class="bao"><img src="/style/img/renwu.png" alt=""></div>
+							<span>去咨询</span></div>
+                            <div class="a">MORE<span>></span></div>
+							
+						</div>
+						</div>
+                        </a>
+						
+					</li>
+										<li aos="fade-up">
+                        <a href="/case/庭院花园星空房/index.html">
+                            <div class="bao"><img src="/wp-content/uploads/2022/04/493-3.jpg" alt="">   </div>
+						<div class="text">
+						<div class="mid">
+							<div class="le">
+								<h3>庭院花园星空房</h3>
+								<h4><span>酒店</span>3.5m星空房</h4>
+							</div>
+							<div class="ri"><img src="/style/img/plan08-3.jpg" alt=""><span>120个喜欢</span></div>
+						</div>
+						<div class="bottom">
+							<div class="le"><div class="bao"><img src="/style/img/renwu.png" alt=""></div>
+							<span>去咨询</span></div>
+                            <div class="a">MORE<span>></span></div>
+							
+						</div>
+						</div>
+                        </a>
+						
+					</li>
+										<li aos="fade-up">
+                        <a href="/case/家用阳台星空房/index.html">
+                            <div class="bao"><img src="/wp-content/uploads/2022/04/493-4.jpg" alt="">   </div>
+						<div class="text">
+						<div class="mid">
+							<div class="le">
+								<h3>家用阳台星空房</h3>
+								<h4><span>酒店</span>3.5m星空房</h4>
+							</div>
+							<div class="ri"><img src="/style/img/plan08-3.jpg" alt=""><span>120个喜欢</span></div>
+						</div>
+						<div class="bottom">
+							<div class="le"><div class="bao"><img src="/style/img/renwu.png" alt=""></div>
+							<span>去咨询</span></div>
+                            <div class="a">MORE<span>></span></div>
+							
+						</div>
+						</div>
+                        </a>
+						
+					</li>
+					
+
+
+
+				</ul>
+        </div>
+     
+    </div>
+    <div class="page" aos="fade-up">
+			        </div>
+</div>
+
+
+
+<script>        
+  var case01Swiper = new Swiper ('.case01Swiper', {
+    speed:1000,
+    autoplay:{
+        delay:2100,
+    },
+    loop: true, // 循环模式选项
+    
+    // 如果需要分页器
+    pagination: {
+      el: '.case01Swiper-pagination',
+    },
+    
+ 
+  })        
+  </script>
+
+
+
+
+
+
+
+
+<!-- case02 -->
+<div class="case02">
+     <div class="content">
+        <h3 aos="fade-up">一站式服务 专业厂家 全程护航</h3>
+        <h4 aos="fade-up">AniGood 21年<br>全品类星空房直供厂家 让您更 省心 放心 安心</h4>
+        <ul>
+            <li aos="fade-right" aos-delay="300">
+                <img src="/style/img/case02-1.png" alt="">
+                <span>寻求意向方案</span>
+            </li>
+            <li aos="fade-right" aos-delay="400">
+                <img src="/style/img/case02-2.png" alt="">
+                <span>委托规划设计</span>
+            </li>
+            <li aos="fade-right" aos-delay="500">
+                <img src="/style/img/case02-3.png" alt="">
+                <span>方案甄选确定</span>
+            </li>
+            <li aos="fade-right" aos-delay="600">
+                <img src="/style/img/case02-4.png" alt="">
+                <span>签订施工合同</span>
+            </li>
+            <li aos="fade-right" aos-delay="700">
+                <img src="/style/img/case02-5.png" alt="">
+                <span>项目施工服务</span>
+            </li>
+        </ul>
+     </div>
+</div>
+
+
+
+
+
+<!-- case03 -->
+<div class="case03">
+
+    <ul>
+        <li>
+            <a href="/about/index.html">
+            <h3 aos="fade-up">关于我们</h3>
+            <div class="line" aos="fade-up"></div>
+            <p aos="fade-up">21年国际品牌AniGood专注于全景星空房、移动星空房的研发、生产与销售</p>
+            <div class="bao">
+                <img src="/style/img/plan04-3.jpg" alt="">
+            </div>
+            </a>
+           
+        </li>
+        <li>
+            <a href="/full/index.html">
+            <h3 aos="fade-up">全景星空房</h3>
+            <div class="line" aos="fade-up"></div>
+            <p aos="fade-up">AniGood全景星空房是最新打造的特色旅居网红产品，主体采用全新高品质原料</p>
+            <div class="bao">
+                <img src="/style/img/plan08-5.jpg" alt="">
+            </div>
+            </a>
+           
+        </li>
+        <li>
+            <a href="/mobile/index.html">
+            <h3 aos="fade-up">移动星空房</h3>
+            <div class="line" aos="fade-up"></div>
+            <p aos="fade-up">AniGood移动星空房主体框架采用高强度铝型材，大大提高了星空房的安全防护性能</p>
+            <div class="bao">
+                <img src="/style/img/plan04-5.jpg" alt="">
+            </div>
+            </a>
+           
+        </li>
+    </ul>
+   
+</div>
+
+<script>
+
+    $(function(){
+        $(".case03 ul li").mouseenter(function(){
+            $(".case03 .bg").addClass("on")
+            var i =$(this).index()
+            $(`.case03 .on .bao .img${i}`).animate({opacity:"1"},1000)
+            $(`.case03 .on .bao .img${i}`).parent().siblings().find("img").animate({opacity:"0"},600)
+        })
+        $(".case03 ul li").mouseenter(function(){
+
+        })
+    })
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- hty08 -->
+
+<div class="ctt06">
+    <h3 aos="fade-up">过往皆为序章 未来一切可期</h3>
+    <h4 aos="fade-up">拨打电话，AniGood随时为您服务</h4>
+    <div class="bot" >
+        <div class="left" aos="fade-right">
+            <h5>创造理想生活，<br>从来电咨询开始</h5>
+        </div>
+        <div class="right" aos="fade-left">
+            <i class="iconfont">&#xea93;</i>
+            <a href="tel:13372410007">13372410007</a>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="contactF">
+<!-- ctt07 -->
+<div class="ctt07">
+    <div class="content icenter">
+        <h3 aos="fade-up">免费获取设计方案</h3>
+        
+		<!--
+		<div class="mid" aos="fade-up" >
+            <ul>
+                 <li><i class="iconfont">&#xe7ae;</i><input type="text" placeholder="输入您的姓名*"></li>
+				 <li><i class="iconfont">&#xe634;</i><input type="text" placeholder="输入您的联系电话*"></li>
+				 <li><i class="iconfont">&#xe65e;</i><input type="text" placeholder="输入您的邮箱*"></li>
+				 <li><i class="iconfont">&#xe9e5;</i><textarea name="" id="" cols="30" rows="10" placeholder="输入您想要说的话"></textarea></li>
+            </ul> 
+        </div>
+        <div class="bot" aos="fade-up">
+            <h4>已有<span>3456</span>人获取方案</h4>
+            <a href="#">免费获取</a>
+        </div>-->
+
+		
+<div role="form" class="wpcf7" id="wpcf7-f886-o1" lang="zh-CN" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/casecat/sy/m-4/index.html" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="886" />
+<input type="hidden" name="_wpcf7_version" value="5.1.3" />
+<input type="hidden" name="_wpcf7_locale" value="zh_CN" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f886-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+</div>
+<div class="mid" aos="fade-up" >
+<ul>
+<li><i class="iconfont">&#xe7ae;</i><span class="wpcf7-form-control-wrap text-910"><input type="text" name="text-910" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="输入您的姓名*" /></span></li>
+<li><i class="iconfont">&#xe634;</i><span class="wpcf7-form-control-wrap tel-459"><input type="tel" name="tel-459" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="输入您的联系电话*" /></span></li>
+<li><i class="iconfont">&#xe8ff;</i><span class="wpcf7-form-control-wrap text-348"><input type="text" name="text-348" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="输入您的地区*" /></span></li>
+<li><i class="iconfont">&#xe9e5;</i><span class="wpcf7-form-control-wrap textarea-61"><textarea name="textarea-61" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="输入您想要说的话"></textarea></span></li>
+</ul>
+</div>
+<div class="bot" aos="fade-up">
+<h4>已有<span>3456</span>人获取方案</h4>
+<p><input type="submit" value="免费获取" class="wpcf7-form-control wpcf7-submit">
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
+    </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+        $(function(){
+        var t = $(".ctt07 .mid").offset().top;
+        var i = 1;
+        var values=3456;
+        $(document).scroll(function(){ 
+        var liu = $(document).scrollTop();
+        if(liu>=t*0.8){
+        setInterval(num,600)
+        }
+        })
+
+function num (){ 
+        values=i+values;
+        $(".ctt07 .bot h4 span").html(""+values)
+    }
+        })
+</script>
+
+
+
+<div class="fixed-sub">
+    <ul>
+        <li><a href="javascript:;">
+            <span>
+                <img src="/style/img/fc_01.png" alt="">
+            </span>
+            <div class="tel">
+                <!-- <i class="fa fa-phone"></i>
+               “免费咨询热线”   -->            
+               <h2>13372410007</h2>
+            </div>
+            <p>电话咨询</p>
+        </a></li>
+        <li><a href="https://p.qiao.baidu.com/cps/chat?siteId=17972685&userId=39448235&siteToken=f35be7f1913c89dd1e2682e83e4e4178&cp=https%3A%2F%2Fwww.%2F&cr=https%3A%2F%2Fwww.%2F&cw=" target="_blank" >
+            <span><img src="/style/img/fc_02.png" alt=""></span>
+            <p>在线咨询</p>
+        </a></li>
+        <li><a href="javascript:;"><span><img src="/style/img/fc_03.png" alt=""></span><p>微信咨询</p><div class="ewm"><img src="/style/img/weixin_1.jpg" alt=""><p>官方微信</p></div></a></li>
+        <li class="totop"><a href="javascript:;"><span><img src="/style/img/fc_04.png" alt=""></span><p>返回顶部</p></a></li>
+    </ul>
+</div>
+
+<div class="subF">
+<div class="sub">
+    <div class="conF">
+        <div class="con"></div>
+    </div>
+    <div class="text1"> 
+        <a href="tel:13372410007">13372410007</a>
+    </div>      
+</div>
+
+</div>
+
+<div class="subF">
+
+<div class="sub">
+    <div class="conF">
+        <div class="con"></div>
+    </div>
+    <div class="text"> 
+        <img src="/style/img/weixin_1.jpg" alt="">
+        <p>官方微信</p>
+    </div>      
+</div>
+
+</div>
+
+
+<!-- footer -->
+<div class="footer">
+    <div class="top">
+        <div class="left">
+           <div class="t">
+            <ul>
+				<li>
+				    <h3><a href="javascript:;">爆款产品</a></h3>
+				    <div class="min">
+				        <p><a href="/full/index.html">全景星空房</a></p>
+				        <p><a href="/mobile/index.html">移动星空房</a></p>
+				    </div>
+				</li>
+				<li>
+				    <h3>
+				        <a href="javascript:;">产品中心</a>
+				    </h3>
+				    <div class="min">
+				        <p><a href="/category/p1/index.html">全景星空房</a></p>
+				        <p><a href="/category/p3/index.html">移动星空房</a></p>
+				    </div>
+				</li>
+                
+                <li>
+                    <h3><a href="javascript:;">应用方案</a></h3>
+                    <div class="min">
+                        <p><a href="/plan/index.html">餐饮领域</a></p>
+                        <p><a href="/plan02/index.html">民宿领域</a></p>
+                        <p><a href="/plan03/index.html">家用领域</a></p>
+                    </div>
+                </li>
+				
+                <li>
+                    <h3><a href="/casecat/jy/index.html">精品案例</a></h3>
+                    <div class="min">
+                        <p><a href="/casecat/jy/index.html">家用场景</a></p>
+                        <p><a href="/casecat/sy/index.html">商用场景</a></p>
+                    </div>
+                </li>
+                <li>
+                    <h3>
+                        <a href="javascript:;">新闻动态</a>
+                    </h3>
+                    <div class="min">
+			        				        	                        <p><a href="/newscat/news-headlines/index.html">新闻头条</a></p>
+                                                <p><a href="/newscat/news-headlines2/index.html">行业动态</a></p>
+                                                <p><a href="/newscat/news-headlines3/index.html">常见问题</a></p>
+                        
+                    </div>
+                </li>
+                <li>
+                    <h3><a href="javascript:;">关于我们</a></h3>
+                    <div class="min">
+                        <p><a href="/contact/index.html">联系方式</a></p>
+                        <p><a href="/honor/index.html">荣誉资质</a></p>
+                        <p><a href="/about/index.html">品牌介绍</a></p>
+                        <p><a href="/history/index.html">发展历程</a></p>
+                        <p><a href="/service/index.html">服务中心</a></p>
+                    </div>
+                </li>            
+            </ul>
+           </div>
+            <div class="b">
+                <h3>您可能需要以下联系方式</h3>
+              <ul class="pe">
+                  <li>
+                    <h3>人才招聘: 祁经理</h3>
+                    <h4>邮箱:&nbsp;&nbsp;11384736@qq.com</h4>
+                  </li>
+                  <li>
+                    <h3>业务咨询: 祁经理</h3>
+                    <h4>邮箱:&nbsp;&nbsp;11384736@qq.com</h4>
+                  </li>
+                  <li>
+                    <h3>供应商合作: 祁经理</h3>
+                    <h4>邮箱:&nbsp;&nbsp;11384736@qq.com</h4>
+                  </li>
+              </ul>
+			  <div class="flogolinks">
+			    <span>友情链接</span>
+				                <a href="https://www.nqr6.com/" target="_blank">北京监控安装</a>
+				                <a href="https://www.zzkesun.com/" target="_blank">移动伸缩阳光房厂家</a>
+				                <a href="http://www.zzke.net/" target="_blank">汽车停车棚</a>
+							  </div>
+
+<style>
+.flogolinks{ display: block; overflow: hidden; margin-top: 50px;}
+.flogolinks span,.flogolinks a{    display: block;    float: left;    font-size: 14px;    margin-right: 16px;    color: #555;}
+.flogolinks a{ color: #888; }
+.flogolinks a:hover{ color:#999;}
+
+</style>
+
+
+            </div>
+        </div>
+        <div class="right">
+            <h3>更多信息请关注</h3>
+            <div class="code">
+               <div class="code_1">
+                   <img src="/style/img/weixin.jpg" alt="">
+                   <span>微信</span>
+               </div>
+               <div class="code_2">
+                <img src="/style/img/douyin.jpg" alt="">
+                <span>抖音</span>
+               </div>
+            </div>
+        </div>
+    </div>
+    <div class="bot">
+        <div class="left"> <span>关注分享</span>  
+        <div class="right">
+            <a href="javascript:;" class="search"><i class="fa fa-twitter"></i></a>
+            <a href="javascript:;" class="search"><i class="fa fa-weibo"></i></a>  
+            <a href="javascript:;" class="search"><i class="fa fa-weixin"></i></a>  
+            <a href="javascript:;" class="search"><i class="fa fa-qq"></i></a>  
+        </div></div>
+      <a href="/nav/index.html" class="found1">网站导航</a>
+    </div>
+</div>
+
+
+
+
+
+
+
+<script>
+$(function(){
+        if($(window).width()<1023)
+        {
+        $(".subF").eq(0).find(".sub .conF ").click(function(){
+
+            $(".subF").eq(0).hide();
+        })
+        $(".subF").eq(1).find(".sub .conF ").click(function(){
+    
+            $(".subF").eq(1).hide();
+        })
+    
+     $(".fixed-sub").show();
+     $(".fixed-sub ul li").click(function(){
+             var subdex = $(this).index();
+             if(subdex==0){      
+                 
+                 $(".subF").eq(0).show();
+                 $(".subF").eq(1).hide();
+             }
+             if(subdex==2){  
+                 $(".subF").eq(1).show();
+                 $(".subF").eq(0).hide();
+             }
+     })
+         }
+			})
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<script>
+			AOS.init({
+				easing: 'ease-out-quad',
+				duration: 1000,
+				once: true,
+				disable: window.innerWidth < 1024
+			});
+</script>
+
+
+
+</body>
+</html>
